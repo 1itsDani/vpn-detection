@@ -47,5 +47,5 @@ Replace the placeholder 'HERE_API' in the API_KEY variable with your actual VPNA
 
 
 ```bash
-API_KEY = 'YOUR_API_KEY'  # Replace with your actual API key
+API_KEY = 'API_HERE'  # Replace with your actual API key
 ```"# vpn-detection" 
